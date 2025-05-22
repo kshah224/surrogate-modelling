@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+
+*.pth
+*.png
+subset*.txt
+Stress*/*.txt
+Labels*/*.txt
+Labels 3D
+Results
+Stratified Sampling Predictions/*
+DED
